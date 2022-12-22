@@ -6,6 +6,8 @@ i. total_pages in response is always equal to 2
 ii. status code 200
 iii. check email contain "byron.fields@reqres.in"
 
+* Python with request module is used to implement the API automation
+
 # Links
 
 * [Github link to clone project](https://github.com/vishnumj005/api-automation)
